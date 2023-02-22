@@ -22,4 +22,4 @@ If you want to run the scripts, clone this repository in your source folder, ope
 
 Install the necessary libraries to execute the scripts: !pip install <path> . For example: !pip install scikit-learn-extra
 
-Then, two paths will be requested: the input file (.csv) and the output file (data and graph). It is not recommended to use the same folder for different analyses.
+All scripts require a .csv file as upload defined in the dataframe (same format).  Also a path for output file (data and graph). It is not recommended to use the same folder for different analyses.
