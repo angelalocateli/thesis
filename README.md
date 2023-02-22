@@ -18,7 +18,7 @@ This objective was systematized into specific goals. This repository has all the
 
 # Running the scripts: 
 
-The Execution environment was Anaconda (Jupyter Notebook and package manager pip). Open-source, with an environmental management system for Python programs, runs on Windows, macOS, and Linux. For this, you can use a docker container.
+The environment was Anaconda (Jupyter Notebook and package manager pip). Open-source, with an environmental management system for Python programs, runs on Windows, macOS, and Linux. For this, you can use a docker container.
 
 If you want to run the scripts, clone this repository in your source folder, open a terminal, and navigate to the folder where the scripts are located.
 
