@@ -16,7 +16,7 @@ This objective was systematized into specific goals. This repository has all the
 - Armada_functions: Analyze temporal rules that consider higher incidence multi-pollutants in the short-term relationship with the increase in hospitalizations for respiratory diseases to track the behavior of evolutionary data in discovering patterns.
 
 
-# Runing the scripts: 
+# Running the scripts: 
 
 The Execution environment was Anaconda (Jupyter Notebook and package manager pip). Open-source, with an environmental management system for Python programs, runs on Windows, macOS, and Linux. For this, you can use a docker container.
 
