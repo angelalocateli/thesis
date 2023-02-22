@@ -20,6 +20,6 @@ The Execution environment was Anaconda (Jupyter Notebook e gerenciador de pacote
 
 If you want to run the scripts, clone this repository in your source folder, open a terminal and navigate to the folder where the scripts are located.
 
-To execute the scripts install the necessary libraries (requirements). For example: !pip install scikit-learn-extra
+Install the necessary libraries to execute the scripts. For example: !pip install scikit-learn-extra
 
 Then, two paths will be requested: the input file (.csv) and the output file (data and graph). It is not recommended to use the same folder for different analyses.
