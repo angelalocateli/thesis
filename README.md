@@ -16,10 +16,10 @@ Armada_functions: Analyze temporal rules that consider higher incidence multi-po
 
 # Executing the scripts: 
 
-The Execution environment was Anaconda (Jupyter Notebook e gerenciador de pacotes pip). Open-source, with environment management system for Python programs, that runs on Windows, macOS, and Linux.
-
-To execute the scripts install the necessary libraries (requirements) . For example: !pip install scikit-learn-extra
+The Execution environment was Anaconda (Jupyter Notebook e gerenciador de pacotes pip). Open-source, with environment management system for Python programs, that runs on Windows, macOS, and Linux. For this you can use a docker container.
 
 If you want to run the scripts, clone this repository in your source folder, open a terminal and navigate to the folder where the scripts are located.
+
+To execute the scripts install the necessary libraries (requirements). For example: !pip install scikit-learn-extra
 
 Then, two paths will be requested: the input file (.csv) and the output file (data and graph). It is not recommended to use the same folder for different analyses.
