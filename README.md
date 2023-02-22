@@ -6,13 +6,13 @@ This objective was systematized into specific goals. This repository have all th
 
 # Repository:
 
-Clustering/Clustering_ploter: Explore how the clustering technique can contribute to the discovery of spatial and temporal patterns of pollutants in cities in the State of São Paulo;
+- Clustering/Clustering_ploter: Explore how the clustering technique can contribute to the discovery of spatial and temporal patterns of pollutants in cities in the State of São Paulo;
 
-Association_Rules: Investigate, through association rules, considering the groups that present a high concentration of pollutants, co-occurrences between pollutant emission concentration, and meteorological variables in different regions;
+- Association_Rules: Investigate, through association rules, considering the groups that present a high concentration of pollutants, co-occurrences between pollutant emission concentration, and meteorological variables in different regions;
 
-Armada_analysis/Armada_plot (SP, Campinas, Santos): Design and implement an algorithm for extracting temporal association rules for multivariate series in search of frequent patterns, which include temporal intervals and their relationships;
+- Armada_analysis/Armada_plot (SP, Campinas, Santos): Design and implement an algorithm for extracting temporal association rules for multivariate series in search of frequent patterns, which include temporal intervals and their relationships;
 
-Armada_functions: Analyze temporal rules that consider higher incidence multi-pollutants in the short-term relationship with the increase in hospitalizations for respiratory diseases, to track the behavior of evolutionary data in the discovery of patterns.
+- Armada_functions: Analyze temporal rules that consider higher incidence multi-pollutants in the short-term relationship with the increase in hospitalizations for respiratory diseases, to track the behavior of evolutionary data in the discovery of patterns.
 
 # Executing the scripts: 
 
