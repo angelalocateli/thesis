@@ -2,7 +2,7 @@
 
 The present work has the general objective of applying data mining techniques to discover patterns that relate the concentration levels of atmospheric pollutants with rates of occurrence of respiratory diseases, taking into account the geolocation of the patterns and the time intervals in which the patterns happened.
 
-This objective was systematized into specific goals. This repository has all the scripts and instructions to execute.
+This objective was systematized into specific goals. This repository has all the scripts (full view choose "Raw") and instructions to execute. 
 
 
 # Repository:
