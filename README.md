@@ -7,7 +7,7 @@ This objective was systematized into specific goals. This repository has all the
 
 # Repository:
 
-- Clustering/Clustering_ploter: Explore how the clustering technique can contribute to the discovery of spatial and temporal patterns of pollutants in cities in the State of São Paulo;
+- clustering/clustering_plot: Explore how the clustering technique can contribute to the discovery of spatial and temporal patterns of pollutants in cities in the State of São Paulo;
 
 - Association_Rules: Investigate, through association rules, considering the groups that present a high concentration of pollutants, co-occurrences between pollutant emission concentration, and meteorological variables in different regions;
 
